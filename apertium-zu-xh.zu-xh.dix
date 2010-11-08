@@ -1,0 +1,15 @@
+<dictionary>
+  <alphabet/>
+  <sdefs>
+    <sdef n="n"     c="Noun"/>
+    <sdef n="I"     c="Class I"/>
+  </sdefs>
+  <section id="main" type="standard">
+    <!-- SECTION: Nouns -->
+
+    <e><p><l>abantu<s n="n"/><s n="II"/></l><r>abantu<s n="n"/><s n="II"/></r></p></e>
+    <e><p><l>umuntu<s n="n"/><s n="I"/></l><r>umntu<s n="n"/><s n="I"/></r></p></e>
+    <e><p><l>izolo<s n="n"/><s n="V"/></l><r>izolo<s n="n"/><s n="IX"/></r></p></e>
+
+  </section> 
+</dictionary>
