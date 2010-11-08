@@ -1,2 +1,3 @@
 * text=auto !eol
 /apertium-zu-xh.zu-xh.dix -text
+dev/zu.10000.hitparade.analysed.txt -text
